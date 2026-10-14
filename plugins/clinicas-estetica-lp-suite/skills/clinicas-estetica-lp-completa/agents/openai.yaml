@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clínicas de Estética — Página Completa"
+  short_description: "Quatro etapas com especialistas e revisão final"
+  default_prompt: "Use $clinicas-estetica-lp-completa com os materiais da clínica e conduza análise, copy, design system e direção de criação até o pacote final."

@@ -1,0 +1,16 @@
+{
+  "name": "tiberio-clinicas-estetica",
+  "owner": {
+    "name": "Tibério Lemes"
+  },
+  "metadata": {
+    "description": "Skills públicas de aquisição e páginas para clínicas de estética."
+  },
+  "plugins": [
+    {
+      "name": "clinicas-estetica-lp-suite",
+      "source": "./plugins/clinicas-estetica-lp-suite",
+      "description": "Agente autônomo para planejar landing pages de clínicas de estética."
+    }
+  ]
+}

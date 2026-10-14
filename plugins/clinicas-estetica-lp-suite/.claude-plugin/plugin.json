@@ -1,0 +1,15 @@
+{
+  "name": "clinicas-estetica-lp-suite",
+  "version": "1.0.0",
+  "description": "Agente autônomo para estratégia, copy, design system e direção de criação de landing pages para clínicas de estética.",
+  "author": {
+    "name": "Tibério Lemes"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/clinicas-estetica-lp-completa"
+  ],
+  "agents": [
+    "./agents/clinicas-estetica-lp-completa-agent.md"
+  ]
+}
